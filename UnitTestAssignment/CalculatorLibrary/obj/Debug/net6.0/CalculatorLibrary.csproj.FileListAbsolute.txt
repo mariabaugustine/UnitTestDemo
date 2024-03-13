@@ -1,0 +1,12 @@
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\refint\CalculatorLibrary.dll
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
+C:\unittestassignment\UnitTestAssignment\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll
